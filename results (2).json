@@ -1,0 +1,52 @@
+{
+  "rf_roc_auc": 0.8515273721781857,
+  "rf_pr_auc": 0.3598184627814201,
+  "rf_balanced_acc": 0.5462708014647939,
+  "logreg_roc_auc": 0.777286422843369,
+  "logreg_pr_auc": 0.29361444012983173,
+  "n_train": 5413,
+  "n_test": 1354,
+  "positive_rate": 0.06250923599822669,
+  "top_fragments": [
+    {
+      "bit": 1602,
+      "importance": 0.011352247704087215,
+      "example_fragment": "cO"
+    },
+    {
+      "bit": 1057,
+      "importance": 0.01029514629420764,
+      "example_fragment": "C"
+    },
+    {
+      "bit": 1873,
+      "importance": 0.009753173008465659,
+      "example_fragment": "C"
+    },
+    {
+      "bit": 1380,
+      "importance": 0.009608812914604449,
+      "example_fragment": "C"
+    },
+    {
+      "bit": 1855,
+      "importance": 0.009608671834802057,
+      "example_fragment": "cc(c)c"
+    },
+    {
+      "bit": 875,
+      "importance": 0.008700263945866059,
+      "example_fragment": "ccc"
+    },
+    {
+      "bit": 202,
+      "importance": 0.007703945961598553,
+      "example_fragment": "cc(O)c"
+    },
+    {
+      "bit": 80,
+      "importance": 0.005925450041314757,
+      "example_fragment": "C"
+    }
+  ]
+}
